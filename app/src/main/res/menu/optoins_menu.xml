@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="settings"
+    app:showAsAction="never"
+    android:id="@+id/settingsFragment"
+    android:menuCategory="secondary"
+    />
+    <item
+        android:title="Terms &amp; conditions"
+        android:id="@+id/termsAndConditions"
+        app:showAsAction="never"/>
+</menu>
